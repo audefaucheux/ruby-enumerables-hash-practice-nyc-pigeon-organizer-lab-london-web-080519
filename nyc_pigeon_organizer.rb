@@ -15,5 +15,5 @@ def nyc_pigeon_organizer(data)
 #      end
 #    end
 #  end
-  puts new_hash
+  return new_hash
 end
